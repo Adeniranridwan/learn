@@ -2,7 +2,7 @@
 x = input ("enter your number for")
 y = input ("enter your number")
 z= int(x) + int (y)
-print (z)
+print (z)  
 
 c = input ("enter your number in cs")
 c = int (c)
