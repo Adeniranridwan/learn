@@ -7,6 +7,11 @@ print (z)
 
 
 
+
+
+
+
+
 c = input ("enter your number in cs")
 c = int (c)
 z= (5/9) * c + 32
